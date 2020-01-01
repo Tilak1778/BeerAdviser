@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BeerAdviser</string>
+    <string name="Button_text">get Brands</string>
+    <string name="textView_text">Your Brands</string>
+
+    <string-array name="Beer_Colour_array">
+        <item>Light</item>
+        <item>Amber</item>
+        <item>Brown</item>
+        <item>Dark</item>
+
+    </string-array>
+
+
+</resources>
